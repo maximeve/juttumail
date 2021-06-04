@@ -1,0 +1,105 @@
+Regardez notre lettre d'information dans toute sa splendeur via votre navigateur web :
+<%@ include view='rc_be_juttu_personalization_mirrorpage' %>
+
+++++++++++
+JUTTU
+++++++++++
+
+-----------------
+Avril sur le fil
+-----------------
+
+Le printemps a joué à cache-cache tout le mois : les journées estivales ont succédé aux intempéries (merci la grêle et le gel), et vice-versa. De quoi nous embrouiller… Mais on a préféré ignorer les caprices d’avril, bien planqués derrières les palmiers et entourés de jolies pièces aux couleurs ensoleillées : le jaune pâle, le bleu ciel et les tons sables.
+
+-----------------
+Tropic punch
+-----------------
+
+Aller simple pour les tropiques
+https://www.juttu.be/fr/lookbook/overview-lookbook.html 
+
+
+-----------------
+AQUARIUM ENCHANTÉ
+-----------------
+
+Notre toute nouvelle obsession : la boule de mousse Marimo ! Cette algue, originaire des lacs d’Islande, du Japon et du Canada, sera bientôt la star de ton jardin aquatique. On a déjà accueilli notre colocataire verte, what about JU?  
+
+Par ici la bouboule !
+https://www.juttu.be/fr/le-monde-de-juttu/deco/life-is-plantastic.html 
+
+-----------------
+STRØM
+-----------------
+
+Malgré une sonorité plutôt scandinave, ce sont bien quatre boys anversois qui se cachent derrière ce label unisexe. Strøm signifie Stad aan de Stroom (ou « ville au bord de l’eau »). La marque propose des sweaters, pulls à capuche et T-shirts minimalistes, rehaussés d’un clin d’œil coloré. 
+
+Envie de Strøm ?
+https://www.juttu.be/fr/marques/str%C3%B8m.html 
+
+-----------------
+LONGUE VIE AU DÉBARDEUR
+-----------------
+
+LE hit de l’hiver se fait une place dans notre dressing de printemps : le gilet sans manches continue de nous réchauffer. On le porte sur une maxi robe, une blouse bouffante ou, plus sexy, en solo sur un jeans… 
+
+UN DÉBARDEUR POUR MOI
+https://www.juttu.be/fr/c/femme/vetements/debardeurs.html 
+
+
+-----------------
+MAKEUP ERASER : DO OR DON’T?
+-----------------
+
+Pour notre rubrique « Testé & Approuvé », on teste pas mal de produits beauté. Ce mois-ci, on s’est démaquillées à l’aide de l’Original MakeUp Eraser. Quels tours de magie te réserve cette serviette miracle ? 
+
+Je me fie à ton avis
+https://www.juttu.be/fr/le-monde-de-juttu/beaute/annelies-a-teste-la-serviette-demaquillante.html 
+
+-----------------
+MID SEASON MADNESS
+-----------------
+
+Quelle chance : dans nos rayons se bousculent encore des pépites printanières à prix mini. La mode, les accessoires et la déco de TOUTE la sélection des promos de Mi-Saison passent à - 50 % !
+
+Je cède à la folie
+https://www.juttu.be/fr/c/folies-de-mi-saison.html 
+
+----------------- 
+WANTED : TALENT BELGE
+-----------------
+
+Cet été encore, quelques labels de mode et de design belges s’empareront de notre Espace Pop-Up « J’achète Belge ». Tu as ta propre marque et porte fièrement le drapeau noir-jaune-rouge ? Ne perds plus une minute et inscris-toi (avant le 9 mai) !
+
+JE PARTICIPE
+https://www.juttu.be/fr/j-achete-belge-pop-up.html 
+
+
+*********************************************************************************************
+
+[ + ] Facebook:
+https://www.facebook.com/juttuofficial/
+
+[ + ] Instagram:
+https://instagram.com/juttu_official/
+
+[ + ] Twitter:
+https://twitter.com/juttu_official
+
+[ + ] Pinterest:
+https://www.pinterest.com/juttu_official/
+
+*********************************************************************************************
+
+Vous recevez cette lettre d'information parce que vous vous êtes inscrit(e) chez Juttu.
+
+[ + ] Désabonnez-vous simplement ?
+https://www.juttu.be/nl/account/unsubscribe.html?&uuid=<%= recipient.account %>&type=email_newsletter&link=footer_signout_nvt_nvt_nvt&utm_source=<%= delivery.nature %>&utm_medium=email&utm_campaign=<%= delivery.deliveryCode %>
+
+[ + ] Lisez notre Vie privée :
+https://www.juttu.be/fr/legals/privacy-policy.html
+
+[ + ] Lisez les termes et conditions sur le site Internet :
+https://www.juttu.be/fr/legals/terms-and-conditions.html
+
+© <%= formatDate(new Date(), "%4Y") %> All rights reserved JUTTU

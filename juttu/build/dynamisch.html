@@ -1,0 +1,19 @@
+//////////////// DYNAMIC SEGMENTS //////////////
+<% if ( targetData.segmentcode_xxxxx === "xxxxx"){%>
+<%}else{%>
+<%}%>
+
+<% if ( targetData.segmentcode_xxxxx === "xxxxx" ){%>
+<%}else if (targetData.segmentcode_yyyyy === "yyyyy"){%>
+<%}else{%>
+<% } %>
+
+//////////////// PERSONALISATION //////////////
+Veel plezier met je nieuwe aankoop<% if ( recipient.firstName != "" && recipient.firstName != undefined ) { %>, <%= recipient.firstName.toLowerCase().charAt(0).toUpperCase() + recipient.firstName.toLowerCase().slice(1) %><% } else { %><% } %>!
+
+Profitez pleinement de votre nouvel équipement <% if ( recipient.firstName != "" && recipient.firstName != undefined ) { %>, <%= recipient.firstName.toLowerCase().charAt(0).toUpperCase() + recipient.firstName.toLowerCase().slice(1) %><% } else { %><% } %> !
+
+//////////////// INCLUDE BLOCKS //////////////
+<%@ include view='rc_be_marketing_juttu_headernew_benl' %>
+<%@ include view='rc_be_marketing_juttu_footernew_benl' %>
+<%@ include view='rc_be_juttu_mobilephone_benl' %>

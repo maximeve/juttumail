@@ -1,0 +1,102 @@
+Moeilijkheden om de mail te lezen? Bekijk de online versie:
+<%@ include view='rc_be_juttu_personalization_mirrorpage' %>
+
+++++++++++
+JUTTU
+++++++++++
+
+-----------------
+Dit was april
+-----------------
+
+De lente had het lastig deze maand: even de zomer op ons loslaten, dan weer de dieperik in duiken met hagel en sneeuw: wat.was.dat?! En dus negeerden we de grillen achter een paar wuivende palmbladeren en doken fashionable onder in een zomerpalet van zachtgeel, hemelsblauw en zandtinten.
+
+-----------------
+TROPIC PUNCH
+-----------------
+
+Take me to the tropics
+https://www.juttu.be/nl/lookbook/tropic-punch.html 
+
+-----------------
+BIJZONDER BALLETJE
+-----------------
+Onze nieuwste obsessie: de Marimo Moss Ball! Dit kleintje verstopt zich op de bodem van diepe meren in Ijsland, Japan en Canada, of op de bodem van jouw watertuintje. Wij hebben al zo’n groene roommate, what about JU?
+
+Hier met dat balletje!
+https://www.juttu.be/nl/de-wereld-van-juttu/home/life-is-plantastic.html 
+
+-----------------
+Crush van de maand 
+STRØM
+-----------------
+Klinkt Scandinavisch, maar achter dit uniseks label zitten gewoon vier Antwerpse boys. Strøm staat dan ook voor Stad aan de Stroom én voor minimalistische, duurzame sweaters, hoodies en shirts met een kleurrijke knipoog. 
+
+Into Strøm?
+https://www.juttu.be/nl/merken/str%C3%B8m.html 
+
+-----------------
+DOE DE DEBARDEUR
+-----------------
+
+Dé winterhit rolt gewoon de lente in, want het mouwloze truitje is natuurlijk de perfecte springproof bodywarmer. Kleurrijk op een maxi-jurk, een statement met een puffy blouse of sexy solo op een jeans.
+
+Ook ‘n debardeur? 
+https://www.juttu.be/nl/c/dames/kleding/debardeurs.html 
+
+-----------------
+MAKEUP ERASER: DO OR DON’T?
+-----------------
+
+In onze rubriek Trial & Tested proberen we telkens een beautyproduct uit. Deze maand verwijderden we make-up en vuilrestjes met The Original Make-Up Eraser. Hoe wonderlijk is dat wonderdoekje écht?
+
+Lees onze review
+https://www.juttu.be/nl/de-wereld-van-juttu/beauty/annelies-probeerde-de-makeup-eraser-uit.html 
+
+-----------------
+Mid Season Madness
+-----------------
+
+Lucky you, want er liggen nog heel wat sterk afgeprijsde spring beauties in onze rekken. Tot -50% op een selectie fashion, accessoires én home goodies: go crazy…
+
+Bring on the madness
+https://www.juttu.be/nl/c/mid-season-madness.html 
+
+-----------------
+GEZOCHT: BELGISCH TALENT
+-----------------
+
+Ook deze zomer laten we weer een aantal Belgische fashion- en designlabels met een verhaal onze Ik Koop Belgisch Pop-Up Space inpalmen. Ben jij de tricolore starter die we zoeken? De inschrijvingen lopen nog tot 9 mei, dus snel zijn!
+
+Inschrijven maar
+https://www.juttu.be/nl/ik-koop-belgisch-pop-up.html
+
+
+*********************************************************************************************
+
+[ + ] Facebook:
+https://www.facebook.com/juttuofficial/
+
+[ + ] Instagram:
+https://instagram.com/juttu_official/
+
+[ + ] Twitter:
+https://twitter.com/juttu_official
+
+[ + ] Pinterest:
+https://www.pinterest.com/juttu_official/
+
+*********************************************************************************************
+
+Deze e-mail is verstuurd naar <%= recipient.email %>
+
+[ + ] Uitschrijven?
+https://www.juttu.be/nl/account/unsubscribe.html?uuid=<%= recipient.account %>&type=email_newsletter&link=footer_signout_nvt_nvt_nvt&utm_source=<%= delivery.nature %>&utm_medium=email&utm_campaign=<%= delivery.deliveryCode %>
+
+[ + ] Lees onze Privacy Policy:
+https://www.juttu.be/nl/legals/privacy-policy.html
+
+[ + ] Lees de algemene voorwaarden op onze website:
+https://www.juttu.be/nl/legals/terms-and-conditions.html
+
+© <%= formatDate(new Date(), "%4Y") %> All rights reserved JUTTU
